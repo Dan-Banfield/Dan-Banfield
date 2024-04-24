@@ -1,5 +1,5 @@
-# About Me:
-🇬🇧 C#/.NET Developer
+# 🇬🇧 About Me:
+C#/.NET Developer
 
 
 # 💻 Tech Stack:
